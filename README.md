@@ -144,3 +144,11 @@ Open Jupyter Notebook and run:
 data_cleanser_complete_project.ipynb
 
 ---
+
+# 🎥 Project Explanation Video
+
+You can watch the complete project explanation here:
+
+🔗  https://drive.google.com/file/d/1NwqjlkFGoEi4u39SSW2q7Rvi25ycneIt/view?usp=sharing
+
+---

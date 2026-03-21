@@ -128,23 +128,6 @@ Patient-Health-Data-Cleanser
 
 ---
 
-# 🚀 How to Run the Project
-
-1️⃣ Clone the repository
-
-git clone https://github.com/your-username/patient-health-data-cleanser.git
-
-2️⃣ Install required libraries
-
-pip install pandas numpy scikit-learn matplotlib seaborn scipy
-
-3️⃣ Run the notebook
-
-Open Jupyter Notebook and run:
-data_cleanser_complete_project.ipynb
-
----
-
 # 🎥 Project Explanation Video
 
 You can watch the complete project explanation here:
